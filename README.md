@@ -45,12 +45,6 @@ We developed and tested **three deep learning models** to classify **seven beari
 
 <img src="assets/results.png" width='1000'>
 
-## 🖼️ Results Snapshot
-
-![Classification Accuracy Graph](/assets/images/fault-monitoring/results_comparison.png)  
-*Figure: Accuracy comparison of all models on both housings under varying loads.*
-
----
 
 ## 🧠 Key Contributions
 
