@@ -2,6 +2,9 @@
 
 This project presents a robust deep learning approach to diagnose **bearing faults in rotating machinery** using **vibration signal processing** and **Spectral Correlation Density (SCD)** images. Early fault detection in bearings is vital to ensure equipment reliability, reduce maintenance costs, and prevent catastrophic failures in industrial systems.
 
+
+<img src="assets/Bearing.jpg" width='1000'>
+
 ---
 
 ## 📂 Dataset
@@ -40,13 +43,7 @@ We developed and tested **three deep learning models** to classify **seven beari
 
 ### 📈 Performance Summary
 
-| Model           | Housing A Accuracy | Housing B Accuracy |
-|----------------|--------------------|--------------------|
-| **Custom CNN**  | **96.58%**         | **94.95%**         |
-| ResNet152V2     | 96.49%             | 95.35%             |
-| EfficientNetB0  | 94.16%             | 91.65%             |
-
----
+<img src="assets/results.png" width='1000'>
 
 ## 🖼️ Results Snapshot
 
